@@ -3,8 +3,5 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "env": {
-    "RESEND_API_KEY": "@resend_api_key",
-    "CONTACT_EMAIL": "@contact_email"
-  }
+
 }
